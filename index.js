@@ -1,1 +1,5 @@
-console.log('Hello all')
+const user = {
+  name: "Karl"
+}
+
+console.log(user.name)
